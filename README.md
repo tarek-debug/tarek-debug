@@ -33,6 +33,7 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 - **Specialized Knowledge**: Diffusion Models, Graph Neural Networks, Cybersecurity Practices
 
 ### **Certifications:**
+- Practical Introduction to Quantum-Safe Cryptography
 - *(In Progress)* **CompTIA Security+**
 
 ---
@@ -47,7 +48,7 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 - Senior project focused on **modeling, detecting, and mitigating network attacks** in dynamic graph structures.
 - Utilizes state-of-the-art diffusion models for creating adaptive and scalable solutions.
 
-### [**Predicting Coronal Hole Activity: Key to Mitigating Space Weather Impacts**] (https://github.com/tarek-debug/Sunspot-Prediction-with-CNN-LSTM)
+### [**Predicting Coronal Hole Activity: Key to Mitigating Space Weather Impacts**](https://github.com/tarek-debug/Sunspot-Prediction-with-CNN-LSTM)
 - Research paper co-authored to forecast short-term coronal hole activity using a multi-head CNN-LSTM model.
 - Leveraged Solar Dynamics Observatory (SDO) dataset to predict solar surface ratio covered by coronal holes.
 - Improved predictive performance by 34% in MSE and 27% in MAE compared to baseline models.
