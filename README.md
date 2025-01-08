@@ -23,7 +23,7 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 ## 🛠️ My Tech Stack:
 
 ### **Languages & Frameworks:**
-- **Languages**: Python, JavaScript, C++, Bash
+- **Languages**: Python, JavaScript, C, Bash
 - **Frameworks**: PyTorch, TensorFlow, FastAPI
 - **Web Development**: HTML, CSS, Node.js
 - **Cloud & Virtualization**: AWS (EC2), Docker, WSL
