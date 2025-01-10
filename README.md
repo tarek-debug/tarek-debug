@@ -40,7 +40,7 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 
 ## 🌌 Featured Projects
 
-### **AI Mind: Human Brain-Inspired Modeling ** (*In progress*)
+### **AI Mind: Human Brain-Inspired Modeling** (*In progress*)
 - Exploring AI-based modeling to mimic human brain functionality, including thinking, feeling, and decision-making.
 - Integrates subconscious and conscious processing using innovative AI architectures.
 
