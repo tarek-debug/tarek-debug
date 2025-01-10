@@ -40,11 +40,11 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 
 ## 🌌 Featured Projects
 
-### **AI Mind: Human Brain-Inspired Modeling**
+### **AI Mind: Human Brain-Inspired Modeling ** (*In progress*)
 - Exploring AI-based modeling to mimic human brain functionality, including thinking, feeling, and decision-making.
 - Integrates subconscious and conscious processing using innovative AI architectures.
 
-### **Dynamic Graphs and Diffusion Models**
+### **Dynamic Graphs and Diffusion Models**(*In progress*)
 - Senior project focused on **modeling, detecting, and mitigating network attacks** in dynamic graph structures.
 - Utilizes state-of-the-art diffusion models for creating adaptive and scalable solutions.
 
@@ -54,9 +54,10 @@ Hello! I'm **Tarek Alsolame**, a passionate technologist, problem solver, and li
 - Improved predictive performance by 34% in MSE and 27% in MAE compared to baseline models.
 - Contributes to space weather forecasting and preparedness.
 
-### **Reviving Classical Arabic Poetry with AI**
+### [**Reviving Classical Arabic Poetry with AI**](https://github.com/tarek-debug/BaytDiffuser)(*In progress*)
 - Combines **transformers** and **diffusion models** to reimagine modern Arabic poetry in polished Classical Arabic verse.
 - **Mission**: To make this project fully open-source, honoring the beauty of poetry without monetization.
+
 
 ### **GitHub Open-Source Contributions**
 - Actively contributing to projects that align with my passion for **AI/ML**, **cybersecurity**, and **linguistics**.
